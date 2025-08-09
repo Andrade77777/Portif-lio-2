@@ -1,0 +1,58 @@
+{
+    "name": "DataInsight Pro - Transformação Digital Inteligente",
+    "short_name": "DataInsight Pro",
+    "description": "Solução Premium de Transformação Digital com IA avançada e automação inteligente",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#6366f1",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "lang": "pt-BR",
+    "categories": ["business", "productivity", "utilities"],
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Calculadora ROI",
+            "short_name": "ROI",
+            "description": "Calcular retorno sobre investimento",
+            "url": "/#roi-calculator",
+            "icons": [
+                {
+                    "src": "/icon-96x96.png",
+                    "sizes": "96x96"
+                }
+            ]
+        },
+        {
+            "name": "Contato",
+            "short_name": "Contato",
+            "description": "Entre em contato conosco",
+            "url": "/#contact",
+            "icons": [
+                {
+                    "src": "/icon-96x96.png",
+                    "sizes": "96x96"
+                }
+            ]
+        }
+    ]
+} 
